@@ -5,4 +5,9 @@ tags:
 - scala
 - spring
 - swing
+stages:
+- java
+- scala
+- spring
+- swing
   
