@@ -6,12 +6,14 @@ tags:
 - spring
 - swing
 stages:
-- learn the basics:
+- 
+  - title: learn the basics
   - resources:
     - https://www.youtube.com/watch?v=DIomfxxCpM8
     - http://www.javaworld.com/article/2892227/open-source-tools/codehaus-the-once-great-house-of-code-has-fallen.html
   - exercise: stage1.md
-- learn swing:
+- 
+  - title: learn swing
   - resources:
     - https://www.youtube.com/watch?v=iPsORZun55g
     - http://java-swing-tips.blogspot.co.il/2017/06/automatically-adjust-height-of-jtables.html
